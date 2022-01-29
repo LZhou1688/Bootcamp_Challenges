@@ -25,9 +25,7 @@
 
 ------------------------------------------------------------------------------------------------------------
 
-**The Logistic Regression model input features:**
-
-**Training period: 3 months, Short SMA Window: 4, Long SMA Window: 100** 
+**The Logistic Regression  - 3 months, SMA 4, SMA 100**
 
 ![alt text](https://github.com/LZhou1688/Bootcamp_Challenges/blob/main/Challenge_14/LogisticRegression.png)
 
