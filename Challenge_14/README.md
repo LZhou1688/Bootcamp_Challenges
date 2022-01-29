@@ -5,7 +5,7 @@
 
 ![alt text](https://github.com/LZhou1688/Bootcamp_Challenges/blob/main/Challenge_14/SVM.png)
 
-**Strategy returns outperformed.** 
+***Strategy returns outperformed.** *
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@
 
 ![alt text](https://github.com/LZhou1688/Bootcamp_Challenges/blob/main/Challenge_14/SVM_9m.png)
 
-**Strategy underperformed original.** 
+***Strategy underperformed original.*** 
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@
 
 ![alt text](https://github.com/LZhou1688/Bootcamp_Challenges/blob/main/Challenge_14/SVM_10d_short_window.png)
 
-**Strategy underperformed original** 
+***Strategy underperformed original***
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@
 
 ![alt text](https://github.com/LZhou1688/Bootcamp_Challenges/blob/main/Challenge_14/LogisticRegression.png)
 
-**Logistic regression also performed worse than original** 
+***Logistic regression also performed worse than original*** 
